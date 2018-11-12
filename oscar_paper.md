@@ -1,6 +1,6 @@
 # Oscar Guillen. November 2018.
 
-## Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
+# Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
 
 # Introduction
 
@@ -18,9 +18,9 @@ Cornelius Nepos (110 B.C.E. to 25 B.C.E) was a Roman biographer who, to this day
 
 [^Hornblower]: Hornblower, Simon, Antony Spawforth, and Esther Eidinow. The Oxford Classical Dictionary. Oxford: Oxford University Press, 2012. Print.
 
-## Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
+# Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
 
-# Phocion the Good -  The Recollection of Nepos
+## Phocion the Good -  The Recollection of Nepos
 
 During the years between the late first century B.C.E. to the first century A.C.E., Roman biographer Cornelius Nepos sought out to do the uncommon- he took on the profession of a scribe and determined to write about the lives of well-known, eminent commanders during and around his time. Known to be his only surviving work to date, he finalized his collection of essays under the name *Lives of Eminent Commanders*. One of those so-called "Eminent Commanders" was known as Phocion.
 
@@ -36,7 +36,7 @@ Phocion responds without hesitation.
 
 "If my children be like me, this same little farm, which has enabled me to reach my present eminence, will maintain them; but if they prove unlike me, I should not wish their luxury to be supported and increased at my expense."[^Hornblower] He responds by saying that if his children really were to be his own, they too will become successful living on this "little farm" where he too was has lived and managed to reach the pinnacle of Athenian society. His mentality is as follows: If my children cannot walk the same footsteps as I, then they do not deserve to leach off of my well-earned luxury. They must earn their luxury on their own. He seeks to continue and pass on his mentality of Goodness to his children using a very lassies-faire-like manner. He may not be able to change the mentality of those around him in his society, but he can make a difference in the lives of his descendants.
 
-# The *Strategos* - The Recollection of Plutarch
+## The *Strategos* - The Recollection of Plutarch
 
 Written by Plutarch in 75 A.C.E., and likely a work derived from Nepos' own, *Plutarch's Lives* exemplifies Phocion's militaristic intellect and how it came to be. Under the guidance of then (and still) well-known philosopher Plato and having pursued "the noblest studies and practices", Phocion forged a sophisticated intelligence which granted him a "tendency to take a broad and impartial view[s] of political and military situations."[^Phocion]
 
@@ -46,12 +46,12 @@ Yearning to learn more about his world, Phocion, in 351 B.C.E., ventured from At
 
 [^Plutarch]: “The Internet Classics Archive | Phocion by Plutarch.” The Internet Classics Archive | On Airs, Waters, and Places by Hippocrates, classics.mit.edu/Plutarch/phocion.html.
 
-## Conclusion
+# Conclusion
 The pictures of Phocion by the two noteworthy biographers share differences worth mentioning. Nepos merely alludes to Phocion's successes a military leader and focuses much more on his reputation as "The Good." Plutarch, on the other hand, hardly wrote about his noteworthiness as The Good but placed heavy emphasis on the militaristic aspects of his lifetime and further built on the foundation built by Nepos.
 
 Phocion exemplified the model character of the Athenian political elite. 'Actions speak louder than words' is the quote that continuously comes to mind when reading about Phocion's life. I believe we all have something to learn and adopt from his character. We should strive to be intelligent and thoughtful, leaders, humble and fortuitous when need be. Whether we choose to or not completely depends on us, but one fact is certain - if we choose to do so, it will be something good.
 
-## Bibliography
+# Bibliography
 
 1. Watson, J S, et al. *Justin, Cornelius Nepos, and Eutropius, Literally Translated, with Notes and a General Index*. H.G. Bohn, 1876.
 1. Pearse, Roger. "Cornelius Nepos." The Tertullian Project, 2003, www.tertullian.org/fathers/nepos.htm.
