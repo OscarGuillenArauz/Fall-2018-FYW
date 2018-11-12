@@ -1,7 +1,8 @@
-// Oscar Guillen. November 2018.
-# Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
+# Oscar Guillen. November 2018.
 
-## Introduction
+## Phocion: Life of an Eminent Commander (402 B.C.E. - 317 B.C.E.)
+
+# Introduction
 
 The following paper will serve as an analysis to the essay entitled *PHOCION*, the nineteenth essay found within Cornelius Nepos' *Lives of Eminent Commanders*. This collection of essays was written and published sometime during the late first century B.C.E. to the first century A.C.E. The version of the text that I worked with was translated by Rev. John Selby Watson in 1876.[^Watson] The text of Watson's translation was published on the Worldwide Web in 2003.[^Online] I am publishing this digital edition under an open license, with documentation.
 
@@ -9,7 +10,7 @@ The following paper will serve as an analysis to the essay entitled *PHOCION*, t
 
 [^Online]:Pearse, Roger. "Cornelius Nepos." The Tertullian Project, 2003, www.tertullian.org/fathers/nepos.htm.
 
-## Cornelius Nepos
+# Cornelius Nepos
 
 Cornelius Nepos (110 B.C.E. to 25 B.C.E) was a Roman biographer who, to this day, surmises a highly critical role in all ancient biography, not exclusively Roman biography. Nepos was a close acquaintance of other notable figures, namely Catullus, Cicero and Atticus. He is known to have influenced powerful politicians, the common citizen, and his personal friends, and he wrote about all of it. His works included the *Chronica* (a universal history), geography, poetry, and biographies detailing the lives of Romans and non-Romans.[^Titchener] You may have heard of Nepos through his notable work entitled *Lives of Eminent Commanders*, for which he is quoted as "perhaps trying to make the great men of history accessible to a wider Roman audience," (233).[^Hornblower] Truly, his works have reached scholars and citizens alike across the entire globe having been translated to English, German, Spanish and numerous other languages. Nonetheless, in his work *Lives of Eminent Commanders*, the commander I was most interested in further researching was Phocion.
 
@@ -52,8 +53,9 @@ Phocion exemplified the model character of the Athenian political elite. 'Action
 
 ## Bibliography
 
-1. “CORNELIUS NEPOS.” Translated by John Selby Watson, *Tertullian*, The Tertullian Project, 2003, www.tertullian.org/fathers/nepos.htm#Phocion.
+1. Watson, J S, et al. *Justin, Cornelius Nepos, and Eutropius, Literally Translated, with Notes and a General Index*. H.G. Bohn, 1876.
+1. Pearse, Roger. "Cornelius Nepos." The Tertullian Project, 2003, www.tertullian.org/fathers/nepos.htm.
+1. Titchener, Frances. “Cornelius Nepos and the Biographical Tradition.” *Greece & Rome*, vol. 50, no. 1, 2003, pp. 85–99. JSTOR, JSTOR, www.jstor.org/stable/3567822.
 1. Hornblower, Simon, Antony Spawforth, and Esther Eidinow. The Oxford Classical Dictionary. Oxford: Oxford University Press, 2012. Print.
 1. “Phocion.” Ancient Athenian Women: Roles and Typical Lifestyles | Ancient Athens, www.ancientathens.org/people/phocion.
-1. “Phocion by Plutarch.” The Internet Classics Archive | On Airs, Waters, and Places by Hippocrates, classics.mit.edu/Plutarch/phocion.html.
-1. Titchener, Frances. “Cornelius Nepos and the Biographical Tradition.” *Greece & Rome*, vol. 50, no. 1, 2003, pp. 85–99. JSTOR, JSTOR, www.jstor.org/stable/3567822.
+1. “The Internet Classics Archive | Phocion by Plutarch.” The Internet Classics Archive | On Airs, Waters, and Places by Hippocrates, classics.mit.edu/Plutarch/phocion.html.
