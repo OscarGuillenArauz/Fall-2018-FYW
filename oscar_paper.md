@@ -38,16 +38,16 @@ Phocion responds without hesitation.
 
 ## The *Strategos* - The Recollection of Plutarch
 
-Written by Plutarch in 75 A.C.E., and likely a work derived from Nepos' own, *Plutarch's Lives* exemplifies Phocion's militaristic intellect and how it came to be. Under the guidance of then (and still) well-known philosopher Plato and having pursued "the noblest studies and practices", Phocion forged a sophisticated intelligence which granted him a "tendency to take a broad and impartial view[s] of political and military situations."[^Phocion]
+Written by Plutarch in 75 A.C.E., and likely a work derived from Nepos' own, *Plutarch's Lives* exemplifies Phocion's militaristic intellect and how it came to be. Under the guidance of then (and still) well-known philosopher Plato and having pursued "the noblest studies and practices", Phocion forged a sophisticated intelligence which granted him a "tendency to take a broad and impartial [view] of political and military situations."[^Phocion]
 
-Yearning to learn more about his world, Phocion, in 351 B.C.E., ventured from Athens, enlisting himself into the Persian military, quickly rising to the Persian military leadership within 2 years. His quick rise to fame was unprecedented, and it was further fortified in his close relationship with Artaxerxes III and helping him "put down a rebellion in Cyprus."[^Phocion] Returning to Athens, he "immediately became one of the leading voices in the Assembly," and was elected *strategos* (the general of his tribe) an astounding 45 times (45 years) without ever campaigning for office.[^Phocion]
+Yearning to learn more about his world, Phocion, in 351 B.C.E., ventured from Athens, enlisting himself into the Persian military, quickly rising to the Persian military leadership within 2 years. His quick rise to fame was unprecedented, and it further fortified his close relationship with Artaxerxes III, along with Phocion helping him "put down a rebellion in Cyprus."[^Phocion] Returning to Athens, he "immediately became one of the leading voices in the Assembly," and was elected *strategos* (the general of his tribe) an astounding 45 times (45 years) without ever campaigning for office.[^Phocion]
 
 [^Phocion]: “Phocion.” Ancient Athenian Women: Roles and Typical Lifestyles | Ancient Athens, www.ancientathens.org/people/phocion.
 
 [^Plutarch]: “The Internet Classics Archive | Phocion by Plutarch.” The Internet Classics Archive | On Airs, Waters, and Places by Hippocrates, classics.mit.edu/Plutarch/phocion.html.
 
 # Conclusion
-The pictures of Phocion by the two noteworthy biographers share differences worth mentioning. Nepos merely alludes to Phocion's successes a military leader and focuses much more on his reputation as "The Good." Plutarch, on the other hand, hardly wrote about his noteworthiness as The Good but placed heavy emphasis on the militaristic aspects of his lifetime and further built on the foundation built by Nepos.
+The pictures of Phocion by the two noteworthy biographers share differences worth mentioning. Nepos merely alludes to Phocion's successes a military leader and focuses much more on his reputation as "The Good." Plutarch, on the other hand, hardly wrote about his noteworthiness as The Good but placed heavy emphasis on the militaristic aspects of his lifetime and further built on the foundation already built by Nepos.
 
 He was revered for his ability to be humble. He did not let the materialistic define who he was. Perhaps he was trying to convey a message through his actions about just how much wealth places a label on someone's life, but it is clear that Phocion was more than likely attempting to teach through his actions and we could all learn from his message, especially now in the 21st Century. He truly was Good in a time where corruption was commonplace in the Athenian political class.[^Phocion]
 
